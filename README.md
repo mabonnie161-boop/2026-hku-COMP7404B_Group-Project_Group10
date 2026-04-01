@@ -7,6 +7,6 @@
 
 ## 💻Code
 - For Table1, [table1.py](table1.py)  
-- For Figure1, figure1
+- For Figure2_a, [figure2_a](reproduce_figure2_a.py)
 - For Figure3_b, [figure3.py](figure3.py)  
 - For Figure6, [Ensemble_Classification_MNIST.ipynb](Ensemble_Classification_MNIST.ipynb)  
